@@ -69,7 +69,9 @@
 <body>
 
 <nav>
-    <a href="index.php">Contatos</a>
-    <a href="clientes.php">Clientes</a>
-    <a href="produtos.php">Produtos</a>
+<nav>
+    <a class="btn" href="index.php?pagina=contatos">Contatos</a>
+    <a class="btn" href="index.php?pagina=clientes">Clientes</a>
+    <a class="btn" href="index.php?pagina=produtos">Produtos</a>
+</nav>
 </nav>
